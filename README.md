@@ -299,7 +299,7 @@ const istiyaq: Developer = {
 ║  UI Library  →  DaisyUI + Tailwind CSS (dream combo 🌸)           ║
 ║  Design      →  Figma (light mode — the one exception 😄)         ║
 ║  Music       →  Lo-fi / Synthwave while coding                    ║
-║  Peak Hours  →  11PM – 2AM 🌙 (dark room, full focus)             ║
+║  Peak Hours  →  11PM – 2AM 🌙 (dark & cozy room, full focus)      ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
 
